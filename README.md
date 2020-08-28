@@ -1,6 +1,6 @@
 # Mizumoto.Licence
 
-This is the licence that all my codes without other specified licences shall follow.
+This is the licence that all my codes without other specified licences governed by.
 
 ---
 
